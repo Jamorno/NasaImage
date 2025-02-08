@@ -1,0 +1,40 @@
+# macOS System Files
+.DS_Store
+
+# Xcode
+xcuserdata/
+xcshareddata/
+*.xcworkspace
+*.xccheckout
+DerivedData/
+Carthage/
+Pods/
+Fastlane/
+*.lock
+*.xcscmblueprint
+*.xcodeproj/project.xcworkspace/
+
+# Swift Packages
+Package.pins
+.build/
+.swiftpm/
+
+# CocoaPods
+Podfile.lock
+Pods/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+fastlane/report.html
+
+# Archive & Logs
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.log
+
+# Ignore API Key File
+apiKey.plist
