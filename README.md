@@ -32,6 +32,7 @@ Objectives
 3. Run the app on a simulator or device.
 
 ## Screenshots
+![NasaImage](https://github.com/user-attachments/assets/ac69fdc1-cf82-4584-bdab-263720729f50)
 
 
 
